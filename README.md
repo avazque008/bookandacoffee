@@ -13,11 +13,11 @@ Book and a Coffee is a full-stack web application that utilizes the MERN technol
 * CSS
 * Javascript
 * Node.js
-* npm Modules :
-    * Express.js
-    * Sequelize
-    * Express Handlebars
-    * Other modules
+* React.js
+* Apollo GraphQL
+* GraphQL
+* MongoDB
+* Mongoose
 
 ## Table of Contents
 
