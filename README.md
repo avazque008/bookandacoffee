@@ -2,7 +2,7 @@
 
 ## Description
 
-Book and a Coffee is a full-stack web application that utilizes the MERN technologies to function. In Book and a Coffee, a register user is able to search up a book by it's names/genre, and add it to their saved or read books list. Futhermore, a register user can view other users books reviews and write book reviews themselves.
+Book and a Coffee is a single-page MERN weblog where book enthusiasts can share their thoughts concerning a book they have read and keep track of books they plan to read or have already read.
 
 ## Preview
 
